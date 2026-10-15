@@ -9,6 +9,7 @@
     "url": "https://answeringagent.com"
   },
   "homepage": "https://docs.answeringagent.com/mcp-server",
+  "repository": "https://github.com/answering-agent/answering-agent-skills",
   "keywords": ["car wash", "answering service", "calls", "tasks", "customer replies"],
   "license": "MIT",
   "icon": "./assets/logo.png",
