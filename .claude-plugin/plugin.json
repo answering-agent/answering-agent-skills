@@ -1,0 +1,19 @@
+{
+  "name": "answering-agent",
+  "displayName": "Answering Agent",
+  "version": "1.1.0",
+  "description": "Weekly front desk reports, morning task triage, cancellation reviews, and customer reply drafts.",
+  "author": {
+    "name": "Answering Agent",
+    "email": "support@answeringagent.com",
+    "url": "https://answeringagent.com"
+  },
+  "homepage": "https://docs.answeringagent.com/mcp-server",
+  "keywords": ["car wash", "answering service", "calls", "tasks", "customer replies"],
+  "license": "MIT",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.answeringagent.com/mcp-server",
+  "supportUrl": "https://answeringagent.com/support",
+  "privacyPolicyUrl": "https://answeringagent.com/legal/privacy",
+  "termsOfServiceUrl": "https://answeringagent.com/legal/terms"
+}

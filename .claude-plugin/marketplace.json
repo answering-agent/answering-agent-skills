@@ -1,0 +1,15 @@
+{
+  "name": "answering-agent-skills",
+  "description": "The Answering Agent plugin for Claude.",
+  "owner": {
+    "name": "Answering Agent",
+    "email": "support@answeringagent.com"
+  },
+  "plugins": [
+    {
+      "name": "answering-agent",
+      "source": "./",
+      "description": "Weekly front desk reports, morning task triage, cancellation reviews, and customer reply drafts."
+    }
+  ]
+}

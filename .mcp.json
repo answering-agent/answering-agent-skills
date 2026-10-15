@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "answering-agent": {
+      "type": "http",
+      "url": "https://answeringagent.com/api/mcp"
+    }
+  }
+}
